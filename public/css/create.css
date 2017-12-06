@@ -1,0 +1,20 @@
+.form_btn{
+    font-size:12px !important;
+    text-align:center;
+}
+.form_btn button{
+    width: 100px;
+    font-size: 14px;
+    background: #2196f3;
+    border-color: #3884c6;
+    color:white;
+}
+.form_btn button:hover{
+    color:white;
+}
+.form_btn button:focus{
+    color:white;
+}
+.test-editormd{
+    margin-bottom:-7px !important;
+}
